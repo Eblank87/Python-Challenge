@@ -4,29 +4,31 @@ import csv
 
 
 
-#loop through data sets
-for sets in datasets:
-    #grab polling CSVs
-    votecsv = os.path.join("PythonHW","Python-Challenge","election_data_" + sets + ".csv")
+
+#grab polling CSVs
+votecsv = os.path.join("PythonHW","Python-Challenge","election_data_" + sets + ".csv")
     
-    #create new CSV
-    new_vote_data_csv= os.path.join("PythonHW","Python-Challenge","election_data_" + sets + ".csv")
-    #set new columns
-    Voter_ID[]
-    County[]
-    Candidate[]
-    
-#open each CSV
-    with open(csvpath, encoding="utf-8" as csvfile:
+#create new CSV
+new_vote_data_csv= os.path.join("PythonHW","Python-Challenge","election_data_" + sets + ".csv")
+
+#open  CSV
+with open(csvpath, newline="") as csvfile:
        csvreader = csv.reader(csvfile, delimiter=",")
        
+        Candidate_List =[]
+        unique_candidate = []
+        for i in candidate:
+        if i not in unique_candidate:
+       unique_candidate.append(i)
+        print(Candidate_List)
        #skip headers
        next(csvreader, None)
-       for row in  
+       for row in csvreader:
+        total_votes_count= 0
 
-Candidate_List =[]
-Candidate_Votes= 
-Winner = 
+       
+        Candidate_Votes= 
+        Winner = 
 
 #show results
 print("Election Results")
