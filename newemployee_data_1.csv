@@ -1,0 +1,651 @@
+Emp_ID,Last Name,First NameDOB_New,SSN,State
+214,Simpson,Sarah,1985-12-04,282-01-8166,Florida
+15,Lara,Samantha,1993-09-08,848-80-7526,Colorado
+411,Charles,Stacy,1957-12-20,658-75-8526,Pennsylvania
+166,Roy,Michelle,1978-07-29,794-25-3944,Michigan
+39,Rogers,Joseph,1985-03-28,525-40-3515,Minnesota
+423,Hines,Erica,1975-10-13,034-90-6153,New York
+192,Patel,Zoe,1967-12-20,037-50-0817,Wisconsin
+162,Harvey,Matthew,1990-01-20,244-53-0346,Tennessee
+131,Davis,Shawn,1961-07-21,309-08-1581,West Virginia
+20,Baldwin,April,1961-08-07,068-61-2014,Missouri
+246,Daniels,Vincent,1972-01-06,319-38-2754,Montana
+525,Fields,Ann,1960-08-22,752-98-7911,Iowa
+392,Pearson,Jeffrey,1979-05-05,171-82-2578,Illinois
+474,Johnson,Heather,1989-09-23,724-30-0904,Georgia
+478,Fletcher,Melissa,1979-03-14,899-91-6881,Rhode Island
+101,Alvarez,Kimberly,1984-09-04,138-08-8680,Louisiana
+52,Jimenez,Monica,1988-04-08,835-26-1668,North Dakota
+182,Johnson,Steven,1962-05-28,026-20-7070,Nebraska
+637,Wood,Sarah,1972-06-15,235-96-6715,Florida
+510,Petersen,Jesus,1958-03-28,133-75-0770,Oklahoma
+122,Rosales,Rhonda,1963-04-10,498-27-0286,Alabama
+294,Richardson,Nicole,1981-09-09,369-83-5228,Louisiana
+327,Mendez,Jennifer,1977-07-20,736-41-1994,Oregon
+145,Petty,Sandra,1981-01-30,702-18-7629,North Carolina
+565,Hester,Michael,1987-04-13,022-21-6836,South Dakota
+590,Brown,Joseph,1982-08-28,517-03-4744,New Hampshire
+340,Cooper,Michelle,1993-08-23,056-59-2306,Washington
+176,Wise,Barbara,1991-12-15,894-82-7662,Indiana
+63,Rosales,Carol,1984-07-20,874-92-4907,New Jersey
+121,Villa,Mark,1969-02-24,700-15-2207,Mississippi
+70,Orozco,Russell,1973-09-16,241-61-5514,Mississippi
+446,Sanchez,Michelle,1994-08-21,377-34-5222,Oklahoma
+156,Ayala,Briana,1965-10-31,039-74-4542,Connecticut
+343,Roberts,Shane,1958-12-14,225-39-6030,Hawaii
+599,Morris,Cassandra,1973-01-24,109-15-3831,Montana
+102,Thompson,Krista,1984-07-25,827-54-7445,Kentucky
+377,Bennett,Jon,1957-09-13,135-85-1689,New Mexico
+240,Thomas,April,1993-12-03,372-48-3580,Colorado
+455,Martinez,Haley,1968-01-15,179-78-3736,Idaho
+503,Stafford,Isaac,1989-11-25,759-75-5036,South Dakota
+269,Martinez,John,1987-01-06,035-41-3936,New Hampshire
+219,Phillips,John,1982-12-08,488-42-4070,West Virginia
+301,Shelton,Gary,1978-09-11,245-30-9672,South Dakota
+84,Gordon,Amanda,1969-10-12,093-15-2966,Maine
+588,Holt,Jessica,1963-09-12,741-11-6084,Nebraska
+540,Estes,Stephanie,1966-07-15,274-51-9779,South Dakota
+329,Brown,Jessica,1992-02-01,430-42-7328,Mississippi
+74,Manning,Donna,1973-05-19,279-18-7781,New Mexico
+29,Owens,Nicholas,1991-08-20,307-42-7882,Virginia
+92,Ryan,Wendy,1960-05-13,218-69-0741,Arizona
+489,Hooper,Kimberly,1971-09-08,756-97-3136,Georgia
+561,Gonzalez,Deborah,1975-05-28,020-98-0643,Montana
+44,Yoder,Laura,1987-04-18,376-03-3016,Indiana
+138,Velez,Kimberly,1958-03-07,430-03-0707,Arizona
+623,Garcia,Kevin,1973-05-15,696-93-4337,Oklahoma
+173,Jones,Marcia,1972-11-20,848-99-0963,North Dakota
+148,Baldwin,Nicole,1978-08-11,720-35-5508,Nevada
+184,Juarez,Katherine,1986-02-13,060-72-8687,California
+228,Thompson,Paula,1985-09-22,568-48-7734,North Carolina
+117,Hoover,Joan,1973-02-27,689-60-5429,New Mexico
+544,Simon,Stephen,1962-11-28,591-94-1621,Nevada
+116,Taylor,Rebecca,1962-09-30,130-97-9126,Minnesota
+622,Owens,Lindsay,1973-04-28,596-62-6742,Delaware
+376,Payne,Justin,1983-07-03,055-45-7892,Alaska
+100,Thornton,Michelle,1961-01-25,502-30-4112,Georgia
+222,Hill,Timothy,1985-08-11,772-61-4460,South Carolina
+506,Johnson,Karen,1976-01-05,779-15-5174,Ohio
+59,Mcintosh,Alexis,1962-03-01,870-65-9185,Kentucky
+456,Fitzgerald,Susan,1961-09-18,265-14-3222,Alabama
+389,Stewart,Amber,1958-08-26,308-32-3120,Ohio
+236,Evans,Taylor,1983-07-17,725-79-2641,New Jersey
+78,Knight,Tracy,1993-09-27,042-56-8339,Idaho
+253,Parks,Jason,1981-02-27,088-08-2601,Arizona
+67,Carroll,Jonathan,1973-06-15,343-24-7126,South Carolina
+642,Wallace,Sara,1959-06-21,132-20-6918,Mississippi
+279,Mitchell,Jeffrey,1969-05-23,547-04-4559,Utah
+41,West,April,1986-03-11,348-25-9544,Delaware
+30,Reynolds,Ryan,1973-02-05,474-92-2883,Indiana
+462,Bell,Rachel,1989-07-24,451-75-1379,Alabama
+87,Williamson,Amber,1984-06-20,178-09-4567,Louisiana
+26,Park,Tony,1968-10-08,146-60-7749,Utah
+553,Jefferson,Robert,1981-10-04,364-47-6302,Ohio
+151,Hernandez,Sarah,1987-07-05,248-41-5549,Wyoming
+523,Foley,Margaret,1968-12-19,466-57-4633,California
+434,Christensen,Tina,1988-03-01,140-03-0333,Tennessee
+1,Gomez,Isaac,1987-10-16,360-76-4728,Wyoming
+365,Davis,Phillip,1961-04-24,691-06-5132,Vermont
+230,Douglas,Brian,1979-09-18,308-74-9324,Nevada
+357,Wilson,Teresa,1994-08-12,370-66-9378,Indiana
+142,Wilson,Timothy,1993-11-21,362-88-1270,West Virginia
+606,Davies,Lori,1980-08-21,090-30-9489,Alaska
+129,Stone,Brittany,1985-11-21,159-22-0950,Colorado
+34,Rogers,Matthew,1974-03-09,571-16-2560,California
+190,Gardner,Francisco,1972-08-18,541-83-0367,Wisconsin
+259,Patrick,Ashley,1979-12-06,134-56-7953,Oregon
+471,Frey,Brandi,1979-07-23,604-25-2997,Maryland
+362,Kelley,Garrett,1974-12-20,235-22-1192,Pennsylvania
+620,Barron,Robert,1985-04-19,057-87-0735,Nebraska
+299,Serrano,Lee,1967-06-19,775-19-0867,West Virginia
+213,Vance,Jessica,1959-04-30,260-03-9076,Delaware
+427,Ashley,Russell,1973-02-15,270-49-2395,Ohio
+105,Richardson,Catherine,1989-10-03,456-33-2969,Wyoming
+260,Hamilton,Sheri,1986-03-12,323-01-9319,New Hampshire
+547,Strickland,Craig,1968-02-27,618-88-3498,North Dakota
+28,Hall,Brandon,1969-09-30,787-99-6416,Alaska
+486,Adams,Karla,1962-11-18,134-28-7524,Vermont
+300,Washington,Ernest,1990-07-15,620-77-9800,Florida
+501,Owens,John,1989-05-15,220-27-7554,Montana
+584,Farmer,Roberto,1968-05-04,567-63-3936,Louisiana
+453,Bailey,Tom,1980-01-24,879-46-1663,Iowa
+16,White,Jennifer,1966-01-17,748-97-1698,Michigan
+185,Mendez,Courtney,1961-11-25,342-58-8268,Nebraska
+223,Miller,Jasmine,1971-05-13,014-69-2427,Maryland
+290,Bryan,Amy,1969-06-24,064-94-2636,California
+71,Pruitt,Melvin,1994-05-06,095-27-4970,Alaska
+73,Carrillo,Amanda,1957-10-25,102-77-8942,Mississippi
+549,Nguyen,Anthony,1987-03-10,491-26-6484,North Dakota
+359,Charles,Kaitlyn,1965-11-23,792-34-7712,New Hampshire
+631,Pollard,Rebecca,1977-03-17,217-17-9010,Florida
+585,Jackson,James,1987-09-02,458-49-8491,Maine
+641,Jones,Gina,1964-02-05,324-84-3596,Hawaii
+564,Woodward,Tyler,1983-05-06,156-67-7298,Kansas
+149,Schultz,Hannah,1984-12-28,890-38-7228,New York
+430,Sims,Anthony,1976-04-20,747-10-1311,Connecticut
+587,Wallace,Jessica,1981-05-02,059-30-7152,Wisconsin
+420,Pearson,Jonathan,1980-01-03,125-92-7840,Vermont
+625,Hunt,Richard,1987-09-17,718-77-9513,Indiana
+319,Ballard,Madison,1966-03-11,576-77-3750,Delaware
+18,Blair,Kathryn,1993-08-07,393-75-8028,Georgia
+535,Patterson,Kristina,1958-03-28,618-80-5885,Connecticut
+417,Bryant,Kathryn,1957-04-09,439-47-8017,Colorado
+391,Ayala,Jerry,1982-03-02,223-24-9737,Washington
+274,Rodriguez,Karen,1994-07-30,057-45-3813,Connecticut
+270,Jacobs,Daniel,1972-04-24,279-96-6724,Texas
+537,Campbell,Stephanie,1968-08-30,163-80-3547,Tennessee
+341,Pacheco,Michael,1977-04-29,685-31-6378,Louisiana
+402,Garcia,Steven,1991-04-01,006-04-9437,Montana
+476,Hall,Brenda,1957-07-15,740-56-7869,Texas
+367,Smith,Rhonda,1969-06-27,373-45-5595,Maine
+407,Francis,Tracy,1960-01-26,632-97-8950,Vermont
+280,Fernandez,Dawn,1981-04-14,526-07-9216,Nebraska
+524,Wells,Matthew,1958-08-29,241-85-2780,Florida
+57,Walker,Joel,1979-09-20,261-53-6637,Florida
+312,Shea,Paula,1978-08-15,091-50-1746,Ohio
+649,Bell,Paul,1976-05-23,027-68-7411,Wisconsin
+488,Roberson,Frederick,1978-01-02,830-16-0114,Michigan
+139,Armstrong,Melissa,1959-03-17,687-67-9454,Oregon
+412,Alexander,Jennifer,1969-01-15,213-74-9026,Alaska
+5,Perez,Cassandra,1986-09-02,021-28-1151,Illinois
+153,Austin,Anthony,1965-12-17,645-42-9162,Wisconsin
+321,Jones,Cynthia,1976-08-11,360-54-3428,Rhode Island
+541,Bernard,Oscar,1990-04-07,191-69-5243,Illinois
+406,Hendrix,Amanda,1980-11-19,294-27-7721,Arkansas
+204,Henry,Vincent,1961-08-22,446-65-5624,Utah
+567,Bush,Lauren,1976-12-19,523-18-3299,Georgia
+187,Bates,Stacey,1961-06-17,780-13-1470,California
+460,Khan,Amanda,1971-04-16,328-79-9388,Nebraska
+212,Sutton,Amanda,1973-12-07,399-25-2368,Arkansas
+617,Li,Joshua,1992-03-20,580-04-6050,Idaho
+353,Kennedy,Becky,1987-04-05,737-98-4807,Michigan
+383,Espinoza,Laura,1978-09-04,635-60-5712,Florida
+91,Murphy,Joshua,1970-12-31,379-74-7318,Wisconsin
+429,Bowen,Randall,1969-04-11,479-31-0666,Texas
+40,Pham,Michelle,1979-07-31,510-25-2595,South Carolina
+298,Thomas,Emily,1974-07-10,703-31-6906,Rhode Island
+400,Kelley,Jessica,1976-12-15,346-41-4271,Kentucky
+480,Brown,Jeffrey,1968-12-23,714-90-7392,Washington
+375,Keith,Jennifer,1990-11-24,749-06-2614,Arkansas
+626,Romero,Joshua,1979-10-14,221-21-4169,New Mexico
+97,Walker,Frank,1976-12-13,874-56-5611,Arizona
+291,Lindsey,Cody,1965-01-29,860-65-8099,Alabama
+614,Baker,Cody,1979-03-09,456-54-5896,Vermont
+552,Wall,Jaclyn,1985-12-13,014-30-5336,South Dakota
+338,Roy,Kaitlyn,1965-06-15,854-73-0939,Minnesota
+513,Lee,Allison,1994-04-04,267-45-8932,Utah
+231,Patterson,Heather,1969-06-08,114-66-2886,West Virginia
+443,Thomas,Carrie,1980-08-08,803-52-8236,Massachusetts
+140,Gutierrez,David,1967-08-14,179-44-9234,Nebraska
+96,Robinson,Harold,1965-08-20,067-87-7098,New Mexico
+531,Graham,Alex,1978-11-27,698-33-6911,Kentucky
+403,Thompson,Steven,1978-01-01,555-61-0637,New Jersey
+580,Martin,Barbara,1971-11-11,460-83-5120,Nebraska
+113,Cochran,Theresa,1976-02-23,774-88-2404,Iowa
+289,Madden,Michael,1964-09-05,431-73-2946,Colorado
+247,Chase,Brian,1989-05-01,590-10-3628,Arizona
+472,Rodriguez,Carolyn,1962-11-16,327-51-2185,Rhode Island
+582,Williams,Breanna,1994-06-03,257-97-8593,North Carolina
+265,Cook,Anne,1981-11-11,499-21-8560,New York
+281,Bowers,Tara,1975-09-22,742-78-7048,New York
+330,Hall,Joyce,1980-10-10,701-37-4819,Virginia
+372,George,Sydney,1959-01-24,718-29-8264,Florida
+628,Williams,Lindsay,1977-09-19,734-95-4792,Nevada
+445,Thomas,Darrell,1986-03-14,535-82-2653,Utah
+316,Knight,Thomas,1965-08-07,545-38-2441,New Jersey
+499,Diaz,Carolyn,1991-04-20,105-95-2117,Delaware
+528,Ball,Karen,1986-04-13,649-62-9411,North Dakota
+242,Richardson,Ronald,1988-04-20,865-29-6742,Georgia
+632,Williams,Donna,1986-09-01,223-16-3144,Mississippi
+313,Wright,Molly,1991-02-23,507-49-7938,Washington
+89,Mcintyre,Jeffrey,1974-06-02,265-42-8359,Kansas
+130,Parks,Tabitha,1975-01-19,290-37-8386,Iowa
+3,Padilla,Melissa,1982-12-08,665-02-9382,Montana
+586,Harris,George,1979-11-15,111-98-2111,Arizona
+355,Hancock,Cheryl,1993-09-03,521-93-2522,Idaho
+532,Paul,Jeffrey,1972-01-12,343-46-0457,Montana
+326,Jones,Wendy,1979-04-20,864-30-4078,New York
+225,Johnson,Elizabeth,1981-12-01,380-97-8375,Arkansas
+191,Green,Charles,1990-05-22,786-80-9288,South Carolina
+444,Cooper,Jeffrey,1970-12-14,147-37-7671,Maryland
+490,Brooks,Judith,1971-01-25,245-34-6779,Indiana
+609,Ramsey,Amanda,1971-04-10,741-36-2683,South Carolina
+47,Oliver,Stephen,1984-12-27,145-82-5500,California
+508,Rodriguez,Nancy,1988-02-13,613-76-1027,Maryland
+388,Powers,Joshua,1971-05-13,663-05-4897,Florida
+331,Stein,Lisa,1980-02-07,800-85-2075,California
+264,Martin,Jessica,1967-08-18,189-67-8568,Nevada
+589,Hardy,George,1990-04-17,787-04-4162,New Mexico
+278,Carney,Jonathan,1990-11-08,255-67-0506,Colorado
+526,Robertson,Carol,1959-02-01,699-48-6248,Illinois
+205,Zhang,Susan,1983-03-18,443-61-5874,Connecticut
+199,Cameron,Christopher,1969-08-30,872-37-1053,New York
+550,Ramsey,Paul,1990-05-14,214-03-6565,Maryland
+103,Torres,David,1971-03-26,868-70-5176,Mississippi
+465,Roberts,Barbara,1993-10-22,652-67-9440,Kansas
+348,Dunn,Nicholas,1985-05-22,771-91-1196,Maryland
+158,Long,John,1966-10-09,518-31-8394,Nebraska
+361,Porter,Shelby,1992-01-09,446-69-7391,Maine
+610,Robinson,Judith,1973-08-29,047-39-3792,Florida
+235,Holt,Justin,1969-09-19,867-72-2854,Wyoming
+442,Valdez,Laura,1988-09-14,433-54-2068,Illinois
+215,Rosales,Jesse,1989-12-29,890-51-0642,West Virginia
+17,Duran,Amy,1992-04-02,518-94-5581,Minnesota
+363,Williams,Joshua,1976-11-06,698-57-1375,Indiana
+438,Davis,Robert,1986-03-28,121-17-0776,Nebraska
+111,Houston,Lisa,1966-06-27,337-50-5946,Ohio
+396,Williams,Timothy,1978-11-27,402-11-5842,Illinois
+255,Finley,Kim,1973-03-09,849-06-6351,South Carolina
+226,Lopez,Andrew,1962-06-11,526-76-7248,Tennessee
+652,Herrera,Veronica,1958-10-22,337-88-4723,Iowa
+64,Murphy,Bob,1982-01-14,751-77-8100,South Dakota
+415,Duncan,Timothy,1977-09-25,660-93-7493,Indiana
+354,Sandoval,David,1985-11-26,292-04-6963,West Virginia
+517,Graves,Tony,1980-10-19,276-82-5360,Idaho
+292,Fuller,Andrea,1981-07-17,437-94-0698,Washington
+579,Carney,William,1974-06-16,268-62-3440,Wyoming
+181,Dominguez,Daniel,1992-11-15,161-73-9595,Kentucky
+556,Franco,David,1983-10-30,281-76-2451,New York
+351,Ortiz,Justin,1961-01-29,211-12-6761,Alaska
+405,Jarvis,Sara,1964-07-23,393-24-3953,West Virginia
+647,Green,Adam,1988-05-09,047-55-5674,Tennessee
+646,Flores,Debra,1969-04-02,466-93-7111,Kansas
+79,Adams,Jennifer,1988-12-04,104-19-1210,Rhode Island
+371,Sosa,Lori,1988-06-14,671-78-7062,Michigan
+542,Mora,Cory,1985-03-27,406-86-0325,Nevada
+261,Hughes,Denise,1966-09-20,329-15-7879,Utah
+368,Jenkins,Anthony,1957-09-05,713-25-0437,Massachusetts
+439,Soto,Leonard,1986-10-17,162-09-1991,Nebraska
+82,Todd,Donald,1960-07-16,067-88-6930,Michigan
+431,Long,Christopher,1979-08-24,710-77-2737,Vermont
+155,Pierce,Donald,1976-02-27,207-92-1562,New Jersey
+189,Sullivan,Matthew,1986-02-25,416-95-6697,Mississippi
+393,Stevens,Brianna,1965-06-11,814-62-4666,Montana
+451,Villegas,Jacqueline,1981-02-13,429-08-8948,South Carolina
+22,Diaz,Mary,1964-02-18,393-59-8701,Georgia
+470,Taylor,Steven,1985-12-01,755-10-1803,New Hampshire
+384,Jimenez,Edward,1980-08-19,567-95-1355,Kentucky
+7,Joseph,John,1992-01-07,224-47-0413,Pennsylvania
+258,Fletcher,Jared,1977-07-16,602-32-9304,Vermont
+568,Hill,Kathleen,1970-02-04,002-16-3356,New Hampshire
+56,Warner,Johnny,1965-08-16,085-69-4164,New Hampshire
+621,Smith,Frank,1971-02-08,479-57-1100,Illinois
+49,Thompson,Stephanie,1957-03-26,344-06-6249,Rhode Island
+397,Cannon,Angela,1992-09-13,745-69-3459,Kansas
+36,Robinson,Trevor,1967-04-26,043-69-3462,West Virginia
+33,Powers,Gregory,1969-05-19,385-64-8879,Kansas
+224,Sparks,Michael,1982-11-03,872-05-6809,North Carolina
+634,Flores,George,1989-01-31,660-52-0195,Iowa
+144,Hall,Michael,1986-01-22,061-68-0161,Arizona
+491,Williamson,Susan,1973-05-27,730-88-0355,Indiana
+309,Norton,Luis,1988-05-11,388-67-6955,Wisconsin
+211,Pearson,Victoria,1990-03-07,193-24-5518,North Dakota
+475,Nichols,Roger,1976-01-13,645-70-4515,Oregon
+493,Mills,Jenny,1983-11-10,064-04-1434,Wisconsin
+128,Moore,Joshua,1965-09-30,754-69-8369,Pennsylvania
+262,Carr,James,1979-02-25,715-41-8546,Alabama
+597,Lane,David,1974-04-21,532-28-4614,Minnesota
+325,Reese,Beth,1961-04-30,748-34-1223,Pennsylvania
+573,Thompson,Lindsay,1986-09-24,057-31-1306,Kansas
+55,Taylor,Amber,1982-04-27,101-80-6610,New York
+132,Yates,Oscar,1977-04-03,139-68-0620,Illinois
+401,Cooper,Anthony,1994-06-04,609-69-2490,California
+483,Harrison,Tracie,1983-07-01,275-09-7833,Delaware
+424,Herrera,Corey,1970-11-08,295-81-3228,Oregon
+188,Kim,Anthony,1981-11-04,342-25-7043,Wyoming
+272,Marshall,Kendra,1967-09-11,615-65-2658,Indiana
+545,Chang,Debbie,1993-02-17,644-76-8022,Pennsylvania
+193,Simmons,Miranda,1964-03-27,760-20-2359,Illinois
+593,Murphy,Catherine,1968-08-11,737-70-6401,Rhode Island
+463,Shelton,Nicholas,1984-06-07,711-43-0704,Georgia
+334,Winters,Laura,1969-07-05,412-53-4775,Georgia
+596,Barr,Jill,1983-04-07,085-07-7889,Minnesota
+373,Ritter,Lauren,1970-12-26,706-59-7600,Kansas
+635,Short,Anthony,1986-06-07,741-53-6004,Wyoming
+315,Yates,Patrick,1967-05-07,516-32-4036,North Carolina
+120,Mitchell,Brett,1976-01-20,162-71-8337,Wisconsin
+110,Boone,Andrea,1983-02-05,412-37-1089,Colorado
+68,Alvarez,Charles,1993-02-01,879-74-5142,Montana
+14,Garner,Jeff,1978-12-21,524-11-2191,Massachusetts
+200,Williams,Natalie,1971-06-14,530-26-2753,Massachusetts
+62,King,Tracy,1969-11-17,283-38-0822,North Carolina
+263,Huang,Michael,1990-02-14,872-82-6162,South Carolina
+257,Miller,Ray,1968-03-09,788-31-5774,California
+61,Powers,Tracey,1976-04-28,115-30-5107,Wyoming
+107,Moore,Alexander,1992-07-05,212-86-4136,Hawaii
+322,Fisher,Lisa,1977-01-05,735-25-4670,New Mexico
+2,Gentry,Tamara,1987-04-03,669-93-7430,South Carolina
+81,Fitzgerald,Christopher,1992-04-19,493-25-7096,Massachusetts
+337,Olson,Jose,1991-01-20,277-01-7256,Pennsylvania
+93,Wallace,Carrie,1966-02-07,439-21-8007,Georgia
+366,Smith,Crystal,1991-04-30,537-27-6884,New York
+287,Edwards,Caroline,1959-10-20,246-48-7816,Nevada
+66,Baker,Carol,1959-08-01,227-40-8196,Oregon
+243,Ward,Alexandra,1973-12-27,183-27-3414,Arkansas
+603,Townsend,Krystal,1990-05-15,026-74-6839,Arizona
+277,Elliott,Melanie,1976-06-21,154-81-2869,Minnesota
+583,Barajas,Tracey,1973-01-09,010-89-9722,Arkansas
+268,Barker,Eric,1976-12-09,617-54-2136,Georgia
+234,Elliott,Olivia,1991-09-15,351-59-7631,New Mexico
+320,Reed,Daniel,1969-12-24,862-32-3333,New Jersey
+461,Pierce,Roberto,1964-07-03,573-41-9982,Missouri
+232,Stewart,Lawrence,1987-06-15,549-28-1303,Missouri
+13,Snow,Michael,1965-02-17,129-08-2820,Kansas
+108,Cruz,Ashley,1973-09-09,728-91-3168,Massachusetts
+216,Hobbs,Jesus,1975-12-10,812-72-2648,Mississippi
+304,Riley,Jody,1978-01-08,426-61-6681,Connecticut
+94,Scott,Joseph,1993-11-23,836-87-4445,Maryland
+171,Sullivan,Eric,1993-01-05,225-47-8141,South Carolina
+466,Cervantes,Christopher,1975-11-09,673-34-7919,Vermont
+498,Leon,Jennifer,1959-02-03,766-19-2413,Arkansas
+180,Fuentes,Victor,1957-12-07,773-58-5844,Washington
+9,Marshall,Christine,1972-12-05,271-77-6538,Alabama
+170,Garcia,Amanda,1961-12-03,453-36-1013,New Jersey
+172,Holloway,Nancy,1983-03-13,246-82-4965,Alaska
+46,Banks,Kimberly,1990-07-03,808-01-7861,Arizona
+576,King,Laura,1971-06-04,629-67-5040,Arizona
+11,Mendoza,Robert,1982-04-23,855-95-0627,Iowa
+80,Black,Jessica,1981-12-11,532-57-6296,Kentucky
+77,Duffy,Cynthia,1990-07-08,293-88-0500,North Carolina
+555,Henry,Aaron,1978-10-15,090-70-3379,Michigan
+95,Peterson,Autumn,1965-01-02,537-45-9763,Oklahoma
+595,Murphy,Danielle,1963-08-15,205-60-0413,Texas
+543,Hoffman,Deborah,1986-10-20,755-03-9690,Montana
+227,Palmer,Kathy,1972-07-19,312-08-3934,Arkansas
+572,Smith,Tim,1967-04-22,681-85-8047,North Carolina
+387,Campbell,Renee,1970-11-09,544-32-2594,Missouri
+380,Mcdaniel,Bryan,1959-04-19,033-02-4659,Florida
+203,Flores,Rhonda,1974-12-13,280-87-3754,West Virginia
+636,Wright,Jonathan,1963-06-17,328-28-8490,Missouri
+256,King,Sydney,1977-01-12,304-26-5923,Florida
+85,Gonzales,Janet,1972-12-08,348-66-0243,Utah
+520,Russell,Steve,1978-08-19,715-22-9820,Washington
+233,Pennington,Craig,1957-12-25,156-21-8248,North Dakota
+410,Thomas,Andrew,1963-04-11,767-64-7838,Massachusetts
+485,Woods,Miguel,1992-06-10,672-61-1852,Maine
+630,Anderson,Samuel,1969-03-02,667-87-9480,South Carolina
+295,Clarke,Cynthia,1962-05-29,206-17-8148,Massachusetts
+487,Mcgrath,Adam,1960-06-20,015-05-3185,Alaska
+616,Oconnell,Courtney,1984-04-03,392-89-3672,South Dakota
+435,Hudson,Brandon,1966-08-07,595-28-4780,Illinois
+349,Lewis,Rachel,1985-02-06,450-59-5213,Georgia
+557,Rodriguez,Manuel,1981-03-07,799-07-0042,Washington
+425,Wilkinson,Gregory,1984-08-23,425-53-6395,North Carolina
+273,Lopez,Donna,1962-08-03,103-73-6360,New Hampshire
+69,Scott,David,1992-03-10,062-52-0749,Mississippi
+571,Maxwell,Gregory,1977-11-21,156-46-7057,Nevada
+169,Wilkins,Daniel,1975-09-24,570-69-4870,Mississippi
+495,Henry,Jonathan,1989-06-08,888-02-2026,Montana
+350,Shepherd,Heather,1984-09-17,461-10-2527,Washington
+395,Munoz,Cindy,1986-10-30,795-43-0435,New Hampshire
+75,Bowman,Dalton,1977-12-24,453-05-8792,Maine
+244,Clark,Jon,1967-06-18,351-25-8771,Tennessee
+509,Meyer,Amber,1983-09-04,599-25-5604,Louisiana
+339,Madden,Steven,1972-06-18,813-09-9767,Indiana
+534,Lewis,Victoria,1971-01-04,362-95-6283,Washington
+419,Dudley,Karl,1974-12-14,864-78-6649,Texas
+386,Stone,Alicia,1966-12-24,739-83-8324,Colorado
+328,Mckay,Max,1960-08-17,431-98-4918,South Carolina
+612,Brown,Richard,1979-06-30,518-81-0117,Montana
+502,Case,Heather,1971-12-22,691-75-1698,Arkansas
+390,Gonzalez,Amy,1965-10-12,627-70-2150,Utah
+404,Armstrong,Brandon,1973-12-12,423-27-5658,Arizona
+159,Ewing,Terrance,1981-01-15,315-12-5340,Virginia
+115,Boyd,Jessica,1960-04-27,373-21-9784,Virginia
+422,Taylor,Corey,1966-03-09,753-90-4578,Mississippi
+250,Blankenship,Frank,1958-11-17,482-20-3591,Mississippi
+638,Montgomery,Monica,1975-10-14,021-57-3158,Mississippi
+414,Patrick,Tammy,1961-09-07,439-17-7381,New Mexico
+127,Sawyer,Corey,1982-08-13,095-95-9114,Delaware
+440,Anthony,Linda,1994-01-23,115-31-7298,South Dakota
+594,Patrick,Travis,1967-10-12,017-91-7968,Tennessee
+114,Davis,Linda,1975-08-08,775-39-0620,Connecticut
+109,Adams,Anthony,1962-02-09,875-08-1396,Vermont
+515,Johnson,Christopher,1959-11-03,222-90-5547,Connecticut
+31,Austin,Tracy,1980-08-06,709-79-1904,Rhode Island
+605,Woodward,Matthew,1978-03-26,071-09-6667,Idaho
+421,Cole,Donna,1973-01-19,581-96-3401,New York
+536,Allen,Alexis,1963-08-11,804-16-6449,Tennessee
+267,Parker,Stephen,1967-03-18,508-61-9288,Colorado
+210,Johnson,Nicole,1963-05-01,314-33-0265,Pennsylvania
+560,Green,Daniel,1976-06-16,153-73-7915,Alaska
+302,Adams,Dylan,1966-04-16,343-46-4597,Colorado
+640,Davis,Jason,1970-06-06,654-58-5627,Louisiana
+449,Conrad,Jennifer,1973-10-08,131-63-2874,Wyoming
+202,Dawson,Stephen,1985-06-30,113-04-5741,Arizona
+168,Smith,Douglas,1981-04-07,652-93-9028,Massachusetts
+119,Gray,Diane,1968-10-26,499-92-1654,Hawaii
+613,Gordon,Benjamin,1974-07-26,470-96-3940,Colorado
+473,Miller,Stephanie,1983-09-08,170-37-8885,Louisiana
+615,Stout,Lynn,1973-09-17,705-73-6531,Maine
+10,Scott,Malik,1958-02-02,766-84-4261,Idaho
+86,Brown,David,1973-07-28,423-44-5706,Oklahoma
+500,Jenkins,Nathan,1968-01-11,279-01-6468,Wisconsin
+38,Bryant,Maria,1970-07-17,553-05-3505,Massachusetts
+633,Griffin,Michael,1963-09-15,173-02-4120,Washington
+530,Smith,Nathan,1979-04-17,239-54-9334,California
+177,Jackson,James,1958-06-01,867-20-4595,California
+266,Jones,Erika,1977-02-02,777-40-1552,Alabama
+4,Leon,Stephanie,1967-04-06,364-10-0580,Delaware
+12,Walker,Anthony,1969-12-25,532-20-5284,Rhode Island
+477,Brooks,Richard,1962-10-17,061-01-5295,Kentucky
+575,Bishop,Matthew,1973-06-10,432-55-9588,New Jersey
+37,Thompson,Anthony,1990-10-04,281-96-1051,Massachusetts
+360,Garcia,Justin,1961-09-21,636-67-6120,North Carolina
+134,Garcia,Miguel,1964-12-21,341-90-5477,Ohio
+416,Randolph,Jeffrey,1976-09-24,459-89-2699,Indiana
+45,Tran,Raymond,1957-04-09,409-49-8575,Florida
+441,Webb,Brandon,1966-09-10,462-03-8353,Utah
+323,Petersen,Brandon,1982-07-06,069-09-1657,Tennessee
+58,Ball,Bryce,1994-07-03,599-98-1674,Arizona
+639,Watkins,Blake,1973-02-25,207-67-0572,North Carolina
+484,Morales,Gregory,1960-08-21,221-92-5605,Colorado
+50,Wall,Alyssa,1964-08-24,277-84-2643,Washington
+533,Garcia,Cynthia,1960-11-11,553-04-2024,Idaho
+611,Williams,Amber,1969-12-03,425-23-7515,New Mexico
+563,Stark,Steve,1957-07-02,695-80-7390,Michigan
+562,Baird,Charles,1968-02-29,460-89-2710,Florida
+559,Hall,Mackenzie,1990-02-28,715-66-6862,Alabama
+481,King,Aaron,1964-05-29,760-94-8792,South Dakota
+195,Perez,Joshua,1984-02-08,361-39-1226,Georgia
+186,Valdez,Alexander,1975-10-24,426-12-7833,North Dakota
+160,Santos,Ashley,1983-06-18,242-96-4884,Alabama
+143,Stephens,Joshua,1988-04-11,667-51-9528,Vermont
+492,Long,Steven,1994-08-18,886-15-4594,Texas
+6,Jackson,Jack,1975-07-05,649-66-4734,New York
+88,Leonard,Roberto,1992-01-20,605-26-8779,Massachusetts
+161,Park,Michael,1981-06-05,521-79-4033,New Mexico
+83,Reeves,Carl,1965-12-11,600-56-8325,Louisiana
+254,Lee,Paul,1976-07-22,144-04-7697,Indiana
+464,Ramirez,Kathryn,1960-08-04,631-46-0099,Ohio
+284,Medina,Daniel,1973-10-31,486-97-8215,Mississippi
+25,Gomez,Jesse,1961-01-30,296-37-3664,South Carolina
+218,Good,Brandon,1991-08-01,186-85-5586,Virginia
+99,Suarez,Sandra,1974-06-08,750-33-7890,Georgia
+356,Stevenson,Jeffrey,1957-12-07,382-94-3851,Connecticut
+317,Mcdonald,Richard,1957-02-21,631-87-8008,North Dakota
+229,Castillo,Joanna,1984-03-07,296-96-1576,Indiana
+581,Reyes,Angelica,1992-06-06,721-94-7139,Arkansas
+452,Wright,Jennifer,1976-03-06,827-76-3901,New Mexico
+518,Porter,James,1957-06-30,278-06-1319,California
+479,Brown,Krystal,1961-01-31,151-43-8909,Texas
+245,Reyes,Christopher,1981-02-01,288-39-4713,Indiana
+653,Lewis,Luis,1965-07-18,011-71-3601,Hawaii
+19,Owens,Lynn,1985-03-24,412-70-8776,Rhode Island
+650,Phillips,Anthony,1960-12-12,230-99-3754,New Jersey
+137,Mcdonald,Jessica,1970-12-29,161-42-2911,Mississippi
+619,Allen,Michelle,1972-09-13,282-12-8147,Tennessee
+654,Webb,Victor,1959-01-17,432-20-2267,Tennessee
+201,Melton,Martin,1972-04-06,412-73-7978,New York
+165,Miles,Pamela,1962-11-15,514-94-5312,North Carolina
+310,Compton,Christopher,1958-09-05,372-23-6855,South Carolina
+141,Rice,Annette,1959-03-15,167-50-1866,Florida
+600,Meza,Travis,1974-01-10,847-31-4313,New Jersey
+529,Baker,Brian,1976-07-28,217-64-2839,Illinois
+369,Lee,Sharon,1967-10-23,400-59-7596,Delaware
+32,Sparks,Brian,1967-02-14,109-81-8194,Hawaii
+522,Ryan,Dana,1962-10-10,355-91-3761,Virginia
+651,Stevens,Maria,1958-05-12,727-25-9113,California
+608,Berry,Julia,1960-06-17,013-24-3759,New Hampshire
+336,Williams,Sarah,1964-09-12,722-12-3882,Iowa
+516,Short,Trevor,1980-07-29,417-96-2488,North Dakota
+514,Johnson,Michael,1962-04-11,215-59-6015,Maine
+426,Cross,Louis,1959-11-13,066-43-7111,Colorado
+497,Smith,Ryan,1964-04-24,861-78-2228,Oklahoma
+468,Carter,Joan,1964-01-06,172-87-8092,Kentucky
+24,Franklin,Karen,1967-06-17,808-19-4888,Vermont
+221,Palmer,Christian,1992-04-30,492-66-6104,Alabama
+217,Smith,Kristopher,1982-10-20,070-10-3545,Hawaii
+399,Velez,Cheryl,1963-07-21,565-39-3300,Tennessee
+285,Harris,Jeffrey,1993-12-20,445-91-9625,Mississippi
+21,Doyle,Jamie,1984-06-11,031-79-1529,Nevada
+447,Sims,Adam,1973-12-20,837-82-6337,Idaho
+601,Griffith,Joshua,1984-08-01,331-62-3344,Hawaii
+378,Koch,Donald,1989-10-02,326-51-5788,Connecticut
+548,Leonard,Wendy,1957-03-18,554-73-7962,Hawaii
+42,Hubbard,Dana,1980-08-06,747-30-4700,Florida
+344,Carson,Brett,1970-02-27,015-87-5338,Oklahoma
+252,Peters,Erica,1980-11-05,480-62-0341,South Carolina
+428,Carter,William,1989-01-31,310-44-1954,Vermont
+220,Taylor,Karen,1986-01-29,351-35-6243,Arizona
+118,Cobb,Virginia,1978-12-04,113-71-9307,Michigan
+618,Watson,Tamara,1968-08-18,800-36-6329,New Jersey
+370,Middleton,John,1983-07-24,087-98-7354,Oregon
+23,Cruz,Alex,1964-12-23,539-59-4744,Connecticut
+511,Crawford,Theresa,1973-01-08,723-67-9276,Illinois
+43,Chavez,Glenn,1970-11-29,031-56-5246,Nebraska
+311,Davis,Carrie,1963-07-16,278-60-7399,Wisconsin
+136,Haynes,Michael,1974-09-13,310-34-3346,Nebraska
+72,Arellano,Michele,1981-04-12,140-45-5875,Indiana
+65,Stevens,Gina,1992-04-05,837-93-2359,Pennsylvania
+577,Hatfield,Elizabeth,1959-04-07,207-97-7821,New Mexico
+35,Reyes,Michael,1958-07-21,599-75-1842,Florida
+296,Wilson,Spencer,1959-09-18,222-97-7753,Indiana
+578,Smith,Kevin,1992-08-26,256-43-8582,Indiana
+98,Giles,Steven,1980-11-19,745-28-2061,Virginia
+569,Butler,Mario,1979-05-03,799-72-3035,Massachusetts
+248,Romero,Billy,1958-01-29,506-37-3100,Vermont
+433,Miller,Katie,1970-07-09,592-79-7579,Massachusetts
+307,Salinas,William,1983-04-24,798-02-6013,Missouri
+398,Alvarado,Kendra,1957-10-07,140-27-0633,California
+60,Wright,Kimberly,1979-03-20,046-99-9022,Ohio
+282,Nelson,Judy,1968-10-17,463-45-2012,Nevada
+436,Golden,Alexandra,1978-04-08,796-59-3418,North Dakota
+318,Park,Patricia,1965-07-28,242-02-5775,Colorado
+494,Chavez,Kylie,1965-01-10,121-23-3816,Connecticut
+644,Edwards,Randy,1980-06-29,474-37-9087,Oregon
+413,Hebert,Glenda,1987-05-18,009-70-7625,New York
+345,Garrett,Erin,1980-04-29,445-78-5815,South Dakota
+123,Floyd,Donna,1957-03-30,213-94-1819,South Dakota
+208,Watson,Brandon,1974-02-12,639-72-3375,Pennsylvania
+346,Patterson,Paul,1985-02-22,489-14-4729,Pennsylvania
+385,Henderson,Hannah,1960-12-21,601-07-5897,Pennsylvania
+454,Smith,Autumn,1974-07-24,319-05-7279,California
+209,Contreras,Steven,1986-05-31,772-14-6852,Delaware
+271,Russell,Miguel,1986-09-25,492-82-0302,Utah
+152,Martin,Kim,1964-08-03,437-69-3452,South Carolina
+283,Proctor,Heidi,1993-01-31,105-66-9545,Ohio
+592,May,Nicholas,1976-06-19,713-28-8728,Kansas
+469,Nunez,Michael,1982-06-22,733-29-9379,West Virginia
+306,Bowen,Gregory,1981-07-05,122-76-1510,Ohio
+237,Juarez,Jennifer,1969-06-30,272-83-9009,Oklahoma
+457,Williamson,April,1990-10-25,285-24-8318,Kansas
+293,Smith,Francisco,1972-08-12,719-72-1836,North Dakota
+374,Taylor,Roger,1975-11-02,484-71-6293,Georgia
+276,Williams,Gabriela,1976-01-10,084-38-5792,Arizona
+112,Pittman,Stephanie,1965-12-05,444-68-0840,Maryland
+333,Porter,Sarah,1962-08-09,079-50-3997,Arizona
+546,Cooper,Ernest,1971-09-24,890-48-2003,New Jersey
+496,Fisher,Alexandra,1976-03-06,239-41-2206,Alaska
+504,Turner,Henry,1984-11-20,004-03-7954,Oklahoma
+126,Rogers,Charles,1984-08-31,667-72-8407,Nevada
+418,Lynch,Keith,1988-02-26,416-90-4803,Iowa
+566,Bowman,Lindsay,1972-08-24,344-18-8895,Alabama
+249,Lutz,Jennifer,1990-07-05,232-24-2943,Rhode Island
+624,Mills,Mark,1962-11-20,316-16-7406,Arkansas
+358,Thomas,Dawn,1960-08-05,043-89-0942,North Carolina
+197,Tyler,Keith,1975-05-10,762-27-7953,Missouri
+538,Smith,Joseph,1960-03-12,481-53-3836,Louisiana
+164,Dudley,Michael,1966-03-10,523-72-3459,South Dakota
+450,Bowman,Blake,1961-01-17,838-01-8076,North Dakota
+602,Graves,Amy,1994-08-22,848-22-9448,South Carolina
+239,Hill,Robert,1968-10-03,724-50-8902,Arkansas
+627,Davis,Robert,1988-08-13,075-44-5405,Maryland
+459,Horton,Tammy,1981-03-06,121-09-0677,Rhode Island
+394,Watkins,Allison,1992-03-27,133-74-1605,Nevada
+554,Mathis,James,1989-11-29,387-64-3276,Iowa
+90,Shelton,Sabrina,1958-02-03,442-21-2668,Idaho
+364,Coleman,Rachel,1983-10-26,462-71-7638,South Dakota
+574,Cantrell,William,1973-08-17,351-80-4706,California
+607,Carroll,Donna,1968-09-16,014-43-9127,Massachusetts
+157,Harris,Tammy,1961-01-26,701-82-8283,Ohio
+241,Pena,Debra,1957-10-16,356-92-9872,Minnesota
+558,Reilly,James,1957-03-01,116-55-7935,South Dakota
+324,Krause,Robert,1957-03-11,048-99-5246,New Mexico
+183,Crawford,Chad,1990-11-05,182-65-0638,Illinois
+381,Huerta,Luke,1986-01-05,121-69-5912,Michigan
+505,Long,Corey,1978-09-06,700-74-9787,Missouri
+437,Flores,Joshua,1987-10-30,521-50-5727,Nebraska
+135,Collins,Jeffery,1993-06-01,333-58-4791,Kentucky
+27,Clements,Michael,1994-01-03,634-52-6223,North Carolina
+48,Williams,Christopher,1977-02-23,139-37-6535,Hawaii
+286,Mata,Laura,1966-10-22,692-08-5794,Alabama
+308,Campbell,Jessica,1968-09-16,500-14-2121,Florida
+163,Hebert,Kristy,1973-11-12,543-40-9892,Washington
+275,Silva,Rachel,1974-11-19,484-82-3474,North Dakota
+521,Dean,Tyrone,1986-01-31,367-14-5932,Virginia
+53,White,Angela,1963-02-17,731-57-2921,Maine
+539,Bell,Teresa,1975-05-12,116-73-1580,Indiana
+482,Williams,Edwin,1981-07-27,696-38-6206,Pennsylvania
+342,Hicks,Hannah,1978-06-05,348-28-9383,Louisiana
+150,Rivera,Kevin,1994-03-14,867-07-8418,Delaware
+448,Jones,Trevor,1959-07-28,340-17-5747,Oregon
+604,Silva,Emily,1989-04-24,248-58-5242,Minnesota
+154,Thomas,Emma,1960-02-25,044-53-2668,North Dakota
+591,Myers,Lisa,1980-07-22,382-24-7446,Wisconsin
+196,King,Jennifer,1975-02-04,843-77-2581,Maryland
+507,Walker,Dylan,1971-11-01,527-92-4143,Georgia
+409,Snyder,Andrea,1981-07-10,063-32-3882,Kentucky
+629,Lane,Samuel,1992-02-09,071-25-2267,Oklahoma
+305,Cameron,Jennifer,1962-05-16,608-50-7541,Oregon
+297,Cross,Rodney,1985-06-14,773-95-4949,Nebraska
+133,Brown,Dustin,1990-12-18,480-31-3364,Oregon
+125,Mack,Krista,1969-09-30,102-27-0563,South Dakota
+106,Ruiz,Luis,1977-02-01,248-33-4894,Nevada
+335,Johnson,Cassandra,1991-12-01,172-44-0203,Alabama
+648,Nichols,Ruth,1990-07-21,746-43-7608,Nebraska
+332,Dean,Pamela,1987-08-15,279-93-3302,Connecticut
+175,Lee,Beth,1961-12-08,191-48-1371,Minnesota
+104,Martin,Christopher,1977-04-26,563-30-9812,Wyoming
+314,Johnson,Amanda,1974-09-03,061-41-7153,Massachusetts
+551,Barnett,Joseph,1959-10-24,559-56-1644,Oregon
+124,Burns,Maria,1979-11-24,714-40-9488,West Virginia
+8,Riley,Kevin,1962-09-05,460-37-5605,West Virginia
+251,Reyes,Brian,1962-07-15,747-56-0510,West Virginia
+643,Robinson,Jeffrey,1958-06-21,055-93-6490,Missouri
+238,Gardner,David,1961-09-05,358-50-8396,Florida
+303,Downs,Tracey,1974-02-28,177-86-4596,New Mexico
+519,Ramirez,Cody,1982-10-15,298-47-7950,Louisiana
+178,Gray,Heather,1981-05-09,655-20-6848,Kansas
+458,Lewis,Erika,1960-02-15,449-09-9111,Colorado
+207,Maynard,Ronald,1978-11-22,734-20-9020,Kentucky
+598,Saunders,Ashley,1991-06-11,174-14-5309,Georgia
+352,Kaufman,Paul,1978-11-02,590-30-0964,Iowa
+645,Rosario,Nathan,1964-06-15,505-75-5027,New York
+146,Nguyen,Melissa,1978-10-06,348-50-1193,Minnesota
+51,Gill,Mitchell,1989-07-27,281-99-7598,Kentucky
+512,Shaw,Michael,1977-04-18,537-54-8249,Oregon
+467,Jones,Crystal,1972-12-20,502-77-8160,Maryland
+179,Harrison,Jasmine,1957-12-04,179-98-0602,West Virginia
+54,Grant,Chase,1985-05-04,721-15-1229,Kansas
+570,Kidd,Shawn,1961-04-10,210-13-4240,Minnesota
+527,Robinson,Chris,1970-01-24,453-27-1013,South Carolina
+288,Smith,Carla,1969-05-05,340-98-6182,Alabama
+382,Burns,Kimberly,1985-01-30,857-45-5610,California
+408,Sullivan,Lori,1992-10-05,682-95-4062,New York
+147,Williams,Jennifer,1994-02-25,464-83-7025,Maine
+198,Lamb,John,1986-03-09,571-58-1494,Colorado
+194,Lamb,Joanne,1974-06-28,313-30-6922,Louisiana
+206,Brown,David,1978-12-27,893-82-4274,Delaware
+76,Leach,Scott,1985-04-03,216-79-5144,Arkansas
+432,Tyler,Andrew,1970-04-08,175-03-3511,Iowa
